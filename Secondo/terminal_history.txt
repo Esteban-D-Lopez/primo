@@ -1,0 +1,50 @@
+   76  cd
+   77  conda deactivate
+   78  conda activate dev
+   79  jupyter lab
+   80  cd ..
+   81  cd ..
+   82  cd Fintech\ Bootcamp/
+   83  cd GitLab/
+   84  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-08-2022-U-B.git
+   85  clip < ~/.ssh/id_rsa.pub
+   86  conda activate dev
+   87  jupyter lab
+   88  conda deactivate
+   89  conda activate dev
+   90  python lab
+   91  jupyter lab
+   92  conda activate dev
+   93  python lab
+   94  conda list pandas
+   95  jupyter lab
+   96  conda activate dev
+   97  jupyter lab
+   98  cd ..
+   99  git statys
+  100  git status
+  101  git add .
+  102  git commit -m "initial commit"
+  103  git push
+  104  git push
+  105  git push origin main
+  106  conda activate dev
+  107  pip install fire
+  108  conda activate dev
+  109  install fire
+  110  install questionary
+  111  conda init
+  112  pip install fire
+  113  pip install questionary
+  114  history(5) >terminal
+  115  git status
+  116  cd Secondo/
+  117  git status
+  118  git push
+  119  conda deactivate
+  120  pwd
+  121  cd 
+  122  cd EY/
+  123  pwd
+  124  ls
+  125  history 50 > terminal_history.txt
